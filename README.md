@@ -16,6 +16,6 @@ $ cd Nay
 
 $ chmod +x *
 
-$ python2 fbclonning.py
+👉Choice yor tools👈
 
-$ python2 da.py
+python2 .......? .py
