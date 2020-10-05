@@ -14,6 +14,8 @@ $ git clone https://github.com/Nayyy/Nay
 
 $ cd Nay
 
+$ ls
+
 $ chmod +x *
 
 👉Choice yor tools👈
