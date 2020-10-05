@@ -3,7 +3,7 @@
 logo = """
    Asif Javed
    ▄︻̷̿┻̿═━一
-   THE ANONYMOUS lovehacker TRICKER 
+   http://python.org/dev/peps/pep-0263/
    THE LEGEND ℒℴνℯ
    THE GAME CHANGER ℒℴνℯ
    pakistani hackers
