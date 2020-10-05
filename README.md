@@ -17,3 +17,5 @@ $ cd Nay
 $ chmod +x *
 
 $ python2 fbclonning.py
+
+$ python2 da.py
