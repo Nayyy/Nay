@@ -6,6 +6,8 @@ $ pkg install git
 
 $ pkg install python2
 
+pkg install ruby
+
 $ pip2 install requests
 
 $ pip2 install mechanize
@@ -22,9 +24,8 @@ $ chmod +x *
 
 python2 .......? .py
 
+user Nay
+pass Nay
 
-$ pkg update && pkg upgrade
-$ pkg install git
-$ pkg install python2
-$ pip2 install requests
-$ pip2 install mechanize
+user Black
+pass Tiger404
